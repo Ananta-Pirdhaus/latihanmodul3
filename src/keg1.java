@@ -3,10 +3,7 @@
  * @created 13/04/2023 - 17:53
  * @project latihan
  */
-/**
- * Project LATIHAN PRAK
- * author Ryuu
- */
+
 public class keg1 {
     private String[] elements;
     private int top;
