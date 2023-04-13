@@ -4,14 +4,14 @@
  * @project latihan
  */
 
-public class keg2 {
+public class keg21 {
     private String[] elements;
     private int front;
     private int rear;
     private int size;
     private int capacity;
 
-    public keg2() {
+    public keg21() {
         elements = new String[capacity];
         front = 0;
         rear = -1;
